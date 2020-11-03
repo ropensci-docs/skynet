@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2067039d6e5b0b8afa85b2e1fad487fe2365e702",
+    "author": "FilipeamTeixeira <Filipe.MarquesTeixeira@Ugent.be>",
+    "time": "2020-11-03 08:26:53",
+    "files": 1,
+    "merge": false,
+    "message": "Improved search function\n"
+  },
+  "remote": "https://github.com/ropensci/skynet",
+  "pkg": "skynet"
+}
