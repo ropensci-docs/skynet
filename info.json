@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "255d83ac1ed0b3e98980e5762014514ec5e6c6af",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2022-10-25 13:15:29",
+    "files": 1,
+    "merge": false,
+    "message": "Fix pkgdown config, fix #10"
+  },
+  "repo": "https://github.com/ropensci/skynet",
+  "pkg": "skynet"
+}
