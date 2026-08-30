@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "fb902f7b3677c84919e8776bda3890f861703568",
+    "author": "FilipeamTeixeira <Filipe.MarquesTeixeira@Ugent.be>",
+    "time": "2024-09-12T13:29:02Z",
+    "files": 1,
+    "merge": false,
+    "message": "reduced download_t100 download time\n"
+  },
+  "repo": "https://github.com/ropensci/skynet",
+  "pkg": "skynet",
+  "time": "2026-08-30T07:18:19Z"
+}
