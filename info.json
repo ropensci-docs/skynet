@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "fb1ee3825d47d923cd388fc6d546d6d78def7343",
+    "author": "FilipeamTeixeira <Filipeamteixeira@gmail.com>",
+    "time": "2026-11-20T21:20:53Z",
+    "files": 1,
+    "merge": false,
+    "message": "* Rewritten the Description so it no longer starts with \"A ... tool\".\n* Added \\value to the Rd files of all exported functions, describing the\n  class, structure and meaning of the output (or that the function is called\n  for its side effects).\n* Replaced \\dontrun{} with \\donttest{}. Examples that run on the bundled data\n  in under 5 seconds are now unwrapped. The download_*() examples stay in\n  \\donttest{} wrapped in if(interactive()), because they download large files\n  from the BTS website.\n* Removed top-level calls to options(). download_db1b() now saves the timeout\n  option and restores it with on.exit() immediately after changing it.\n"
+  },
+  "repo": "https://github.com/ropensci/skynet",
+  "pkg": "skynet",
+  "time": "2026-11-20T22:54:01Z"
+}
